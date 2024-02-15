@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Raafat M. Elmenayar</h1>
 <h3 align="center">A software engineer from Egypt</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raafatm7md&theme=tokyonight&no-frame=true&no-bg=true" alt="raafatm7md" /></a> </p>
-
 - 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **raafatm7md@gmail.com**
+
+<br>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raafatm7md&theme=tokyonight&no-frame=true&no-bg=true" alt="raafatm7md" /></a> </p>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
