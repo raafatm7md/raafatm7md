@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raafat M. Elmenayar</h1>
 <h3 align="center">A software engineer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raafatm7md&label=Profile%20views&color=be90f1&style=flat" alt="raafatm7md" /> </p>
-
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raafatm7md&theme=tokyonight&no-frame=true&no-bg=true" alt="raafatm7md" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter**
