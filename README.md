@@ -7,7 +7,7 @@
 
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raafatm7md&theme=tokyonight&no-frame=true&no-bg=true" alt="raafatm7md" /></a> </p>
-<br>
+<!-- <br> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
